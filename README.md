@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://exm-portofolio.vercel.app/images/exm-logo.svg" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/%F0%9D%98%8C%F0%9D%98%AD-%F0%9D%98%94%F0%9D%98%B0%F0%9D%98%AC%F0%9D%98%A9%F0%9D%98%B5%F0%9D%98%A2%F0%9D%98%B3-%F0%9D%98%8C%F0%9D%98%A5%F0%9D%98%A5%F0%9D%98%A2%F0%9D%98%B3%F0%9D%98%A9%F0%9D%98%B3%F0%9D%98%AA-178451234/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/el-mokhtar-eddarhri-178451234/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: &nbsp;About Me :
 
 Hi there! My name is Mokhtar. You can call me a designer, developer, or creator. Passionate front-end web developer with 2 years of experience to build all aspects of the user experience and user interface for client-facing landing pages.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MEddarhri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%98%8C%F0%9D%98%AD-%F0%9D%98%94%F0%9D%98%B0%F0%9D%98%AC%F0%9D%98%A9%F0%9D%98%B5%F0%9D%98%A2%F0%9D%98%B3-%F0%9D%98%8C%F0%9D%98%A5%F0%9D%98%A5%F0%9D%98%A2%F0%9D%98%B3%F0%9D%98%A9%F0%9D%98%B3%F0%9D%98%AA-178451234)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MEddarhri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/el-mokhtar-eddarhri-178451234/)
 
 ---
 
