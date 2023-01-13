@@ -2,11 +2,11 @@
 
 
 
-<p align="center"><img src="https://exm-portofolio.vercel.app/images/exm-logo.svg" width="100"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MEddarhri/MEddarhri/main/exm-logo.svg" width="100"/></p>
 
 
 
-<p align="center">I am a Front-End Software Engineer with a passion for creating better UI components for the web💻. I have experience building complex and high-performance web applications using ReactJS and other front-end technologies.</p>
+<h3 align="center">𝘐 𝘢𝘮 𝘢 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘪𝘵𝘩 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘣𝘦𝘵𝘵𝘦𝘳 𝘜𝘐 𝘤𝘰𝘮𝘱𝘰𝘯𝘦𝘯𝘵𝘴 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘸𝘦𝘣 💻. 𝘐 𝘩𝘢𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘢𝘯𝘥 𝘩𝘪𝘨𝘩-𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘸𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘶𝘴𝘪𝘯𝘨 𝘙𝘦𝘢𝘤𝘵𝘑𝘚 𝘢𝘯𝘥 𝘰𝘵𝘩𝘦𝘳 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴.</h3>
 
 
 
